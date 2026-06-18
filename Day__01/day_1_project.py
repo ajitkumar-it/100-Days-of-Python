@@ -1,0 +1,1 @@
+print("Hello World! Day 1 of 100 has started. Let's go!")
