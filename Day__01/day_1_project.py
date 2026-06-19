@@ -15,3 +15,7 @@ print(your_name)
 # Get length of the string
 length = len(your_name)
 print(length)
+
+
+#fstring -- as a show case here only
+print(f"Your name is {your_name}")
